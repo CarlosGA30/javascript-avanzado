@@ -1,0 +1,7 @@
+.hide{
+    display: none;
+}
+.error{
+    font-size: 25px;
+    color: red;
+}
