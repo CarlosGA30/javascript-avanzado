@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.img-gatito{
+    width: 30%;
+    margin: 5px;
+    border-radius: 5px;
+}
